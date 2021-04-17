@@ -6,9 +6,9 @@ FEATURE_ENGINEERING
   
  1. Outliers : They are unusual values in a dataset
 
-    1.1 Catching Outliers Methods : Boxplot, outlier_thresholds, check_outlier, grab_outliers
+        1.1 Catching Outliers Methods : Boxplot, outlier_thresholds, check_outlier, grab_outliers
 
-    1.2 Solving Outlier Problem : drop , re-assignment with thresholds, local outlier factor
+        1.2 Solving Outlier Problem : drop , re-assignment with thresholds, local outlier factor
 
   2. Missing Values 
 
@@ -18,10 +18,10 @@ FEATURE_ENGINEERING
   
     2.3 Advanced Analytics : structure and randomness review, missing_vs_target
   
-   2.4 Other missing variable techniques :
-     If total none rate is equal or less than 0.05 then use simple method (like mean, median, mode...)
-     If total none rate is equal or less than 0.25 then use tree based method 
-     If total none rate is equal or less than 0.50 then use model 
+    2.4 Other missing variable techniques :
+      If total none rate is equal or less than 0.05 then use simple method (like mean, median, mode...)
+      If total none rate is equal or less than 0.25 then use tree based method 
+      If total none rate is equal or less than 0.50 then use model 
    
   3. Encoding
 
