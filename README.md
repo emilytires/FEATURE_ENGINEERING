@@ -12,11 +12,11 @@ FEATURE_ENGINEERING
 
   2. Missing Values 
 
-   2.1 Catching Missing Values
+    2.1 Catching Missing Values
 
-   2.2 Solving Missing Problem : drop , fill in using lambda and apply function, assign missing values with scikit-learn, fill in categorical variable bracket
+    2.2 Solving Missing Problem : drop , fill in using lambda and apply function, assign missing values with scikit-learn, fill in categorical variable bracket
   
-   2.3 Advanced Analytics : structure and randomness review, missing_vs_target
+    2.3 Advanced Analytics : structure and randomness review, missing_vs_target
   
    2.4 Other missing variable techniques :
      If total none rate is equal or less than 0.05 then use simple method (like mean, median, mode...)
@@ -25,23 +25,23 @@ FEATURE_ENGINEERING
    
   3. Encoding
 
-   3.1 Label Encoding
+    3.1 Label Encoding
    
-   3.2 One Hot Encoding
+    3.2 One Hot Encoding
    
-   3.3 Rare Encoding
+    3.3 Rare Encoding
 
   4. Feature Scaling
 
-   4.1 StandardScaler
+    4.1 StandardScaler
   
-   4.2 RobustScaler
+    4.2 RobustScaler
    
-   4.3 MinMaxScaler
+    4.3 MinMaxScaler
    
-   4.4 Log
+    4.4 Log
    
-   4.5 Numeric to Categorical
+    4.5 Numeric to Categorical
 
   5. Feature Extraction
 
