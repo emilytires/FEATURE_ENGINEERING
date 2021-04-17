@@ -6,9 +6,9 @@ FEATURE_ENGINEERING
   
  1. Outliers : They are unusual values in a dataset
 
-         1.1 Catching Outliers Methods : Boxplot, outlier_thresholds, check_outlier, grab_outliers
+    1.1 Catching Outliers Methods : Boxplot, outlier_thresholds, check_outlier, grab_outliers
 
-        1.2 Solving Outlier Problem : drop , re-assignment with thresholds, local outlier factor
+    1.2 Solving Outlier Problem : drop , re-assignment with thresholds, local outlier factor
 
   2. Missing Values 
 
