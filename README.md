@@ -4,11 +4,11 @@ FEATURE_ENGINEERING
   
   In this repo, we will dive into the topics respectively OUTLIER HANDLING, MISSING HANDLING, ENCODING, FEATURE SCALING, FEATURE EXTRACTION.
   
- 1. Outliers : They are unusual values in a dataset.
+ 1. Outliers : They are unusual values in a dataset
 
-    1.1 Catching Outliers Methods : Boxplot, outlier_thresholds, check_outlier, grab_outliers
+         1.1 Catching Outliers Methods : Boxplot, outlier_thresholds, check_outlier, grab_outliers
 
-    1.2 Solving Outlier Problem : drop , re-assignment with thresholds, local outlier factor
+        1.2 Solving Outlier Problem : drop , re-assignment with thresholds, local outlier factor
 
   2. Missing Values 
 
